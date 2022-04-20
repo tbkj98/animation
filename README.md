@@ -1,16 +1,17 @@
 # animation
 
-A new Flutter project.
+Collection custom of flutter animations.
 
-## Getting Started
+List of the animations supported
 
-This project is a starting point for a Flutter application.
+1. Git commit with bouncing ball.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/31429879/164304843-6d7ba033-d88a-4f26-9ece-da2a6b83f3c4.mp4
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+2. Bouncing location pin
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/31429879/164305230-2464531b-2f6f-4929-8655-1dab76897013.mp4
+
+
+These animations are for refernence
+Use the code and modify the animation according to your needs.
