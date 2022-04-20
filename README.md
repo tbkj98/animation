@@ -1,4 +1,4 @@
-# animation
+# Flutter animations
 
 Collection custom of flutter animations.
 
